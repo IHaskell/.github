@@ -7,7 +7,7 @@
 
 This organization maintains the [IHaskell](https://github.com/IHaskell/IHaskell) kernel backend for
 [Haskell](https://haskell.org) programming language support for 
-[Project Jupyter](https://jupyter.org/) computational notebooks.
+[Jupyter Project](https://jupyter.org/) computational notebooks.
 
 ### History of IHaskell
 
