@@ -1,1 +1,1 @@
-Organization for the IHaskell kernel for Jupyter.
+The IHaskell [Jupyter](https://jupyter.org/) kernel.
