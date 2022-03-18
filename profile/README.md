@@ -3,9 +3,7 @@
 <img width=220 height=255 src="https://github.com/IHaskell/IHaskell/blob/master/images/jupyterhaskell.svg"/>
 </p>
 
-<h2 align="center">IHaskell Org</h2>
-
-This organization maintains the [IHaskell](https://github.com/IHaskell/IHaskell) kernel backend for
+The __IHaskell__ organization maintains the [IHaskell](https://github.com/IHaskell/IHaskell) kernel backend for
 [Haskell](https://haskell.org) programming language support for 
 [Jupyter Project](https://jupyter.org/) computational notebooks.
 
