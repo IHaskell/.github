@@ -9,5 +9,5 @@ The __IHaskell__ organization maintains the [IHaskell](https://github.com/IHaske
 
 ### History of IHaskell
 
-[Andrew Gibiansky](https://github.com/gibiansky) started development of the IHaskell kernel in 2013. [Viabhav Sagar](https://github.com/vaibhavsagar) took over as head maintainer of the IHaskell kernel in 2017.
+[Andrew Gibiansky](https://github.com/gibiansky) started development of the IHaskell kernel in 2013. [Vaibhav Sagar](https://github.com/vaibhavsagar) took over as maintainer of the IHaskell kernel in 2017.
 
